@@ -1,4 +1,5 @@
 name: Hello!
+on: push
 jobs:
     Run_main-py:
         name: Run main.py
