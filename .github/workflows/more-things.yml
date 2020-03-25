@@ -1,5 +1,4 @@
 name: Hello!
-on: [push, pull-request]
 jobs:
     Run_main-py:
         name: Run main.py
